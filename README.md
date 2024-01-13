@@ -1,4 +1,5 @@
-# Ada-Project
+#Huffman Compression Program
+
 This is Huffman Compression Program for inputing images and outputting text files
 
 Here, we give input as an image and info about the pixel data.
